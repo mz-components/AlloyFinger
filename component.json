@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/AlloyTeam/AlloyFinger.git",
+    "version": "*",
+    "description": "AlloyFinger",
+    "name": "AlloyFinger",
+    "main": "alloy_finger.js"
+}
